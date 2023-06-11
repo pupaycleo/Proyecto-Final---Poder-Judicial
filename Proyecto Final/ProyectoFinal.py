@@ -1,0 +1,5 @@
+print(".Hola Elija una opcion")
+print("1.Buscar ley por su numero")
+print("2.Buscar ley por palabras claves")
+print("3.Modificar una ley")
+print("4.Salir")
